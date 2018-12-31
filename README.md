@@ -5,4 +5,5 @@ This code is based on the approach outlined in [Faceswap](https://github.com/dee
 ![auto-encoder neural architecture](img/deepfake.png)
 
 ![For Instance](img/instance.png)
+
 The model has been trained only a couple of hours. Of course it can be much better, if you have more closer resources, and run longer time
