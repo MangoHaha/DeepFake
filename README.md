@@ -3,3 +3,5 @@ Deepfake, a portmanteau of "deep learning" and "fake",is an artificial intellige
 
 This code is based on the approach outlined in [Faceswap](https://github.com/deepfakes/faceswap)'s repo, running on google colab.
 ![auto-encoder neural architecture](img/deepfake.png)
+
+![For Instance, the model has been trained only a couple of hours. Of course it can be much better, if you have more closer resources, and run longer time](img/deepfake)
